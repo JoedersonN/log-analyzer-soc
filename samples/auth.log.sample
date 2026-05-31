@@ -1,0 +1,27 @@
+Jun  5 02:14:01 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:03 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:05 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:07 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:09 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:11 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:13 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 02:14:15 server sshd[1234]: Failed password for root from 192.168.1.200 port 22 ssh2
+Jun  5 03:01:44 server sshd[1235]: Invalid user admin from 10.0.0.55 port 49812
+Jun  5 03:01:46 server sshd[1235]: Invalid user admin from 10.0.0.55 port 49813
+Jun  5 03:01:48 server sshd[1235]: Invalid user admin from 10.0.0.55 port 49814
+Jun  5 03:01:50 server sshd[1235]: Invalid user administrator from 10.0.0.55 port 49815
+Jun  5 03:01:52 server sshd[1235]: Failed password for invalid user test from 10.0.0.55 port 49816 ssh2
+Jun  5 08:22:14 server sshd[1240]: Accepted password for joederson from 192.168.1.10 port 51200 ssh2
+Jun  5 08:22:14 server sshd[1240]: pam_unix(sshd:session): session opened for user joederson by (uid=0)
+Jun  5 09:15:33 server sudo: joederson : TTY=pts/0 ; PWD=/home/joederson ; USER=root ; COMMAND=/usr/bin/apt update
+Jun  5 09:16:01 server sudo: joederson : TTY=pts/0 ; PWD=/home/joederson ; USER=root ; COMMAND=/usr/bin/apt upgrade -y
+Jun  5 21:47:02 server sshd[1260]: Accepted password for backup from 172.16.0.99 port 55100 ssh2
+Jun  5 21:47:02 server sshd[1260]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Jun  5 23:58:10 server sshd[1270]: Accepted password for root from 45.33.32.156 port 39812 ssh2
+Jun  5 23:58:10 server sshd[1270]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun  6 01:02:44 server sshd[1290]: Failed password for joederson from 203.0.113.42 port 11022 ssh2
+Jun  6 01:02:46 server sshd[1290]: Failed password for joederson from 203.0.113.42 port 11023 ssh2
+Jun  6 01:02:48 server sshd[1290]: Failed password for joederson from 203.0.113.42 port 11024 ssh2
+Jun  6 01:02:50 server sshd[1290]: Failed password for joederson from 203.0.113.42 port 11025 ssh2
+Jun  6 01:02:52 server sshd[1290]: Failed password for joederson from 203.0.113.42 port 11026 ssh2
+Jun  6 01:02:54 server sshd[1290]: Failed password for joederson from 203.0.113.42 port 11027 ssh2
